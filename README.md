@@ -3,8 +3,8 @@ MvcValidationLocalization
 
 Enable MVC client-side validation in web.config.
 
-<add key="ClientValidationEnabled" value="true"/>
-<add key="UnobtrusiveJavaScriptEnabled" value="true"/>
+<add key=ClientValidationEnabled value=true/>
+<add key=UnobtrusiveJavaScriptEnabled value=true/>
 
 Reference two JS files:
 
